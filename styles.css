@@ -1,0 +1,41 @@
+body {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: white;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  .social-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .small-links img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
+  
+  .large-links img {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+  }
+
+  .writing {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
